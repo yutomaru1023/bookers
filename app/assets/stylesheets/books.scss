@@ -11,22 +11,37 @@
     height:50px;
     width:100%;
   }
+  
+  h1{
+    font-family: verdana, arial, helvetica, sans-serif;
+  }
     
+  top{
+    position:relative;
+  }
+  
+  .top-left{
+    position:absolute;
+    top:15px;
+    left:130px;
+  }
+  
+  .top-right{
+    position:absolute;
+    top:15px;
+    left:520px;
+  }
+
+
   .title{
     height:250px;
     width:250px;
-    background-color:red;
-    margin-left:50px;
-  }
-  
-  .title li{
-    margin-left:15px;
+    margin-left:40px;
   }
   
   .body{
    height:250px;
     width:500px;
-    background-color:green;
     margin-left:5px;
   }
   
@@ -51,3 +66,25 @@
     list-style:none;
     margin:10px 0px;
   }
+  
+  h2{
+  margin-left: 35px;
+  margin-top: 10px;
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+  
+  .post{
+   margin-top:15px;
+   margin-left:35px; 
+  }
+  
+  .post2{
+   margin-top:10px;
+   margin-left:35px; 
+  }
+  
+  .post3{
+   margin-top:10px;
+   margin-left:35px; 
+  }
+  
