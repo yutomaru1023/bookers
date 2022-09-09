@@ -15,57 +15,10 @@
   h1{
     font-family: verdana, arial, helvetica, sans-serif;
   }
-    
-  top{
-    position:relative;
-  }
   
-  .top-left{
-    position:absolute;
-    top:15px;
-    left:130px;
-  }
-  
-  .top-right{
-    position:absolute;
-    top:15px;
-    left:520px;
-  }
-
-
-  .title{
-    height:250px;
-    width:250px;
+  table{
     margin-left:40px;
-  }
-  
-  .body{
-   height:250px;
-    width:500px;
-    margin-left:5px;
-  }
-  
-  .menu{
-    height:250px;
-    width:250px;
-    background-color:blue;
-  }
-  
-  top{
-    height:50px;
-    display:flex;
-    flex-direction:row;
-  }
-  
-  main{
-    display:flex;
-    flex-direction:row;
-  }
-  
-  li{
-    list-style:none;
-    margin:10px 0px;
-  }
+  }  
   
   h2{
   margin-left: 35px;
